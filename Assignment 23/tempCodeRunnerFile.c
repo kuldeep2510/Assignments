@@ -1,0 +1,1 @@
+ num=10*num+str[i];
